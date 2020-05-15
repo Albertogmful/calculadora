@@ -10,13 +10,21 @@ namespace Calculadora
     {
         static void Main(string[] args)
         {
-			aaa
-			bbb
-			cccc
+
+
         }
+
+        public int suma(int a, int b)
+        {
+            return a + b;
+        }
+<<<<<<< Updated upstream
 		
 		public double multiplicacion(double num1, double num2){
 			return num1 * num2;			
 		}
+=======
+
+>>>>>>> Stashed changes
     }
 }
