@@ -1,0 +1,6 @@
+C:\Users\alberto.gutierrez\Documents\Albert\Boletín\Github\Calculadora\calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\alberto.gutierrez\Documents\Albert\Boletín\Github\Calculadora\calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\alberto.gutierrez\Documents\Albert\Boletín\Github\Calculadora\calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\alberto.gutierrez\Documents\Albert\Boletín\Github\Calculadora\calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\alberto.gutierrez\Documents\Albert\Boletín\Github\Calculadora\calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\alberto.gutierrez\Documents\Albert\Boletín\Github\Calculadora\calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
