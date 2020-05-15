@@ -10,14 +10,17 @@ namespace Calculadora
     {
         static void Main(string[] args)
         {
-
-
         }
 
         public int suma(int a, int b)
         {
             return a + b;
         }
+
+        public int Restar(int A, int B)
+		{
+			return A - B;
+		}	
 		
 		public double multiplicacion(double num1, double num2){
 			return num1 * num2;			
